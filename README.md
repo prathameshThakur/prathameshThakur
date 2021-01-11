@@ -12,14 +12,14 @@
 - 🌱 Exploring the elements of AI and Cloud computing..
 - 👯 I’m looking to collaborate on Open source Projects
 - 💬 Happy to help!⚠️💪
-- 💗 learing🚀
+- 💗 learning🚀
 
 ### ⚡Tools & Tech:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-234fc7?style=flat-square&logo=visual-studio-code)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-bd0000?style=flat-square&logo=java)
 ![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
