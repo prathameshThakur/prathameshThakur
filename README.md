@@ -28,6 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-9cf?style=flat-square&logo=google-cloud)
+![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=black)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=prathameshThakur.prathameshThakur)
