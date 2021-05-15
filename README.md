@@ -26,7 +26,7 @@
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)](https://www.heroku.com/)
 [![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
