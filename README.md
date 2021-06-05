@@ -1,7 +1,20 @@
 ## Namaste🙏.. I'm Prathamesh!✨
-🔗[![Linkedin Badge](https://img.shields.io/badge/-thakurprathamesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thakur-prathamesh/)](https://www.linkedin.com/in/thakur-prathamesh/)
-🔗[![Instagram Badge](https://img.shields.io/badge/-pbthakurr-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pbthakurr/)](https://instagram.com/pbthakurr)
-🔗[![Gmail Badge](https://img.shields.io/badge/-prathamesh272000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prathamesh272000@gmail.com)](mailto:prathamesh272000@gmail.com)
+<a href="https://www.linkedin.com/in/thakur-prathamesh/">
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
+<a href="https://www.instagram.com/pbthakurr/">
+<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
+<a href="mailto:prathamesh272000@gmail.com">
+<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+</a>
+<a href="https://dev.to/pbthakurr">
+ <img src="https://user-images.githubusercontent.com/56729180/120904534-60ee6000-c66a-11eb-85b4-92155183fabf.png" alt="Prathamesh Thakur's DEV Community Profile" height="43" width="43">
+</a>
+<a href="https://twitter.com/pbthakurr">
+<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>        
+</a>
+      
 ### 🌌Areas of Interest:
 `Data Science`  `AI` `Machine Learning` `Deep Learning` `Automation` `IoT`
 
@@ -15,23 +28,23 @@
 - 💗 learning🚀
 
 ### ⚡Tools & Tech:
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://www.python.org/)
-[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-234fc7?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![sklearn](https://img.shields.io/badge/-sklearn-2878A2?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/stable/)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/-Keras-d00000?style=flat-square&logo=Keras)](https://keras.io/)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-[![Java](https://img.shields.io/badge/-Java-CC3333?style=flat-square&logo=java)](https://www.java.com/en/)
-[![Flask](https://img.shields.io/badge/Flask-white?style=flat-square&logo=flask&logoColor=black)](https://flask.palletsprojects.com/en/1.1.x/)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)](https://www.heroku.com/)
-[![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-9cf?style=flat-square&logo=google-cloud)](https://cloud.google.com/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://www.python.org/)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-234fc7?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![sklearn](https://img.shields.io/badge/-sklearn-2878A2?style=flat&logo=scikit-learn)](https://scikit-learn.org/stable/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=TensorFlow)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/-Keras-d00000?style=flat&logo=Keras)](https://keras.io/)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+[![Java](https://img.shields.io/badge/-Java-CC3333?style=flat&logo=java)](https://www.java.com/en/)
+[![Flask](https://img.shields.io/badge/Flask-white?style=flat&logo=flask&logoColor=black)](https://flask.palletsprojects.com/en/1.1.x/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)](https://www.heroku.com/)
+[![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-9cf?style=flat&logo=google-cloud)](https://cloud.google.com/)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=prathameshThakur.prathameshThakur)
