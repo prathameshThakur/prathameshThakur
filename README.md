@@ -21,7 +21,7 @@
 ### 🦄Some Facts:
 - 🛰️ I’m a junior pursuing my Bachelors in Electronics and Telecommunication Engineering.
 - 🔮 A community taught developer!
-- 🔭 Curently working on a chatbot for @ieee
+- 🔭 Curently working technological advancement of community projects @ieee
 - 🌱 Exploring the elements of AI and Cloud computing..
 - 👯 I’m looking to collaborate on Open source Projects
 - 💬 Happy to help!⚠️💪
