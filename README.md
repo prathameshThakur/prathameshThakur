@@ -5,9 +5,6 @@
 <a href="https://www.instagram.com/pbthakurr/">
 <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
-<a href="https://dev.to/pbthakurr">
- <img src="https://user-images.githubusercontent.com/56729180/120904534-60ee6000-c66a-11eb-85b4-92155183fabf.png" alt="Prathamesh Thakur's DEV Community Profile" height="43" width="43">
-</a>
 <a href="mailto:prathamesh272000@gmail.com">
 <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
