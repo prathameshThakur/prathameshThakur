@@ -1,17 +1,4 @@
 ## Namaste🙏.. I'm Prathamesh!✨
-<a href="https://www.linkedin.com/in/thakur-prathamesh/">
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
-<a href="https://www.instagram.com/pbthakurr/">
-<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-</a>
-<a href="mailto:prathamesh272000@gmail.com">
-<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
-</a>
-<a href="https://twitter.com/pbthakurr">
-<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>        
-</a>
-      
 ### 🌌Areas of Interest:
 `Data Science`  `AI` `Machine Learning` `Deep Learning` `Automation` `IoT`
 
